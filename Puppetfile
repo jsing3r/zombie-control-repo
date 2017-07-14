@@ -6,6 +6,7 @@ forge "http://forge.puppetlabs.com"
 #mod "puppetlabs/stdlib",      '4.11.0'
 #mod "puppetlabs/concat",      '2.1.0'
 mod 'puppetlabs-sqlserver', '1.2.0'
+mod 'WhatsARanjit-node_manager', '0.4.2'
 
 # comment only
 
